@@ -11,4 +11,5 @@
 
 | Repository Link  | Example | Stack |
 |---|:---:|---:|
-| [model_example](https://github.com/chkim116/modal_example)  | 모달창 | html,css,js |
+| [modal_example](https://github.com/chkim116/modal_example)  | 모달창 | Html,Css,Js |
+| [customhook_example](https://github.com/chkim116/useInput_useSubmit_example)  | 커스텀훅 + 리덕스 | React, Redux |
